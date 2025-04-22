@@ -9,8 +9,8 @@
 </div>
 
 1. **Download `_The.Snake.s.Shadow_DEMO.rar` | 下载文件**  
-2. **Unzip the file | 解压文件**  
-3. **Double-click `蛇影之下_The Snake's Shadow_DEMO.exe` | 双击启动游戏**  
+2. **Unzip | 解压文件**  
+3. **Click “蛇影之下_The Snake's Shadow_DEMO.exe”To Start | 双击 “蛇影之下_The Snake's Shadow_DEMO.exe”启动游戏**  
 4. **Choose Language (English/Chinese) | 选择语言**
 
 ---
@@ -21,8 +21,11 @@
 
 **AVG fan game based on *Degrees of Lewdity* | 基于《Degrees of Lewdity》的AVG粉丝游戏**  
 
-**The Snake's Shadow** —— A story set in Bailey and Eden's school days, where three best friends navigate a dangerous small town.  
-**少女们的纯真被夺走，最终成为小镇最强大的反派**  
+**The Snake's Shadow—— A story back in Bailey and Eden's school days, when three best friends lived in a small town steeped in danger. 
+Their innocence was taken. Soon, they'd be the town’s most powerful villains.** 
+
+**《蛇影之下》——  贝利和伊甸校园时代发生的故事，三位挚友生活在一座充满危险的小镇上。
+少女们的纯真被夺走。不久后，她们将成为镇上最强大的反派。**
 ![](media/1Start.png)  
 
 ### 语言选择
