@@ -9,11 +9,13 @@
 
 ---
 
-  <h1 id="download-link">Download Link | 下载链接 (V0.2.2)</h1>
+  <h1 id="download-link">Download Link | 下载链接</h1>
 </div>
 
+### Latest version | 最新版本 
 [ V0.2.2](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/v0.2.2)  
-[ V0.1.0DEMO](https://https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/demo) 
+### Historical version | 历史版本  
+[ V0.1.0_DEMO](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/demo) 
 
 ---
 
@@ -41,9 +43,6 @@ Their innocence was taken. Soon, they'd be the town's most powerful villains.**
 
 ### Language Options | 语言选择
 - **English / 中文**
-
-### Current Version | 目前版本
-- **0.1.0 DEMO**
 
 ---
 
