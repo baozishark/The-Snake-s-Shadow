@@ -2,24 +2,24 @@
 </div>
 
 ## Links | 目录
-1. [Download Link | 下载链接 ](#download-link)
-2. [How To Start | 如何开始游戏](#how-to-start)
+1. [Download | 下载 ](#download)
+2. [How To Start | 如何开始](#how-to-start)
 3. [About The Game | 游戏介绍](#about-the-game)
 4. [Screenshots | 游戏截图](#screenshots)
 
 ---
 
-  <h1 id="download-link">Download Link | 下载链接</h1>
+  <h1 id="download">Download | 下载</h1>
 </div>
 
-### Latest version | 最新版本 
+###  Current Version | 最新版本 
 [ V0.2.2](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/v0.2.2)  
-### Historical version | 历史版本  
+### Previous Version | 历史版本  
 [ V0.1.0_DEMO](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/demo) 
 
 ---
 
-  <h1 id="how-to-start">How To Start | 如何开始游戏</h1>
+  <h1 id="how-to-start">How To Start | 如何开始</h1>
 </div>
 
 1. **Download `_The.Snake.s.Shadow.rar` | 下载文件**  
@@ -48,6 +48,13 @@ Their innocence was taken. Soon, they'd be the town's most powerful villains.**
 
   <h1 id="screenshots">Screenshots | 游戏截图</h1>
 </div>
+
+#### v0.2.2
+
+**Pixel art CG gallery! Starting from the orphanage main hall, exploring maps, collecting CGs, unlock all Bailey's memory points. A mysterious NPC is waiting for you…**
+
+**像素风格CG画廊！从孤儿院大厅出发，探索地图，收集CG，解锁贝利的所有回忆点。一个神秘的NPC正等待您......**
+![](media/PixelArtCGGallery.jpg)  
 
 #### v0.1.0 DEMO
 **Eden with Bailey | 伊甸和贝利**  
