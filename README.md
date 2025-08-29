@@ -22,7 +22,7 @@
   <h1 id="how-to-start">How To Start | 如何开始</h1>
 </div>
 
-1. **Download `_The.Snake.s.Shadow.rar` | 下载文件**  
+1. **Download `蛇影之下_The Snake's Shadow.rar` | 下载文件**  
 2. **Unzip | 解压文件**  
 3. **Double Click "蛇影之下_The Snake's Shadow.exe" To Start | 双击 "蛇影之下_The Snake's Shadow.exe"启动游戏**  
 4. **Choose Language (English/Chinese) | 选择语言**
