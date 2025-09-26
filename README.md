@@ -13,7 +13,7 @@
 </div>
 
 ###  Current Version | 最新版本 
-[ V0.2.2](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/v0.2.2)  
+[ V0.2.3](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/The_Snake_s_Shadow_v0.2.3)  
 ### Previous Version | 历史版本  
 [ V0.1.0_DEMO](https://github.com/baozishark/The-Snake-s-Shadow/releases/tag/demo) 
 
@@ -22,9 +22,9 @@
   <h1 id="how-to-start">How To Start | 如何开始</h1>
 </div>
 
-1. **Download `蛇影之下_The Snake's Shadow.rar` | 下载文件**  
+1. **Download `The_Snake_s_Shadow.rar` | 下载文件**  
 2. **Unzip | 解压文件**  
-3. **Double Click "蛇影之下_The Snake's Shadow.exe" To Start | 双击 "蛇影之下_The Snake's Shadow.exe"启动游戏**  
+3. **Double Click `The_Snake_s_Shadow.exe` To Start | 双击 `The_Snake_s_Shadow.exe`启动游戏**  
 4. **Choose Language (English/Chinese) | 选择语言**
 
 ---
@@ -49,7 +49,7 @@ Their innocence was taken. Soon, they'd be the town's most powerful villains.**
   <h1 id="screenshots">Screenshots | 游戏截图</h1>
 </div>
 
-#### v0.2.2
+#### v0.2.3
 
 **Pixel art CG gallery! Starting from the orphanage main hall, exploring maps, collecting CGs, unlock all Bailey's memory points. A mysterious NPC is waiting for you…**
 
